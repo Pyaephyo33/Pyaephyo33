@@ -27,16 +27,13 @@
     </a>
     <a href="#">
       <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </a>
-    
+    </a> 
     <a href="#">
       <img align="center" alt="Logo do TailwindCSS" height="30" width="40" title="TailwindCSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
     </a>
-    
     <a href="#">
       <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     </a>
-    
     <a href="#">
       <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
@@ -76,7 +73,6 @@
     <a href="#">
       <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
-    
     <!-- <a href="#">
       <img align="center" alt="Logo do C#" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     </a>
