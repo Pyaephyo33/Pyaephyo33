@@ -87,18 +87,16 @@
     </a> -->
   </p>
 </div>
-
+<!-- 
 <br>
 <br>
-  
 <div> 
   <p align="center">
     <a href="https://www.linkedin.com/in/kyaw-zin-9a4891259/"><img height="35" width="140" title="linkedin.com/in/littlekt15" src="./img/linkedin.png">
     </a>
   </p>
 </div>
-
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
-
+ -->
