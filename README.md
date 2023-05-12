@@ -5,15 +5,15 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Kyaw+Zin;I'm+from+Burma+(Myanmar);I'm+a+Full+Stack+Developer;Be+Welcome+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DA37A&width=435&lines=Hello%2C+I'm+Pyae+Phyo+From+Burma+(Myanmar);I'm+Full+Stack+Developer+;Welcome+to+my+github+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=littlekt15&show_icons=true&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pyaephyo33&show_icons=true&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
   </a>
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlekt15&langs_count=5&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyaephyo33&langs_count=5&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
   </a>
 </div> 
    
@@ -28,12 +28,15 @@
     <a href="#">
       <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </a>
-    <a href="#">
-      <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    </a>
+    
     <a href="#">
       <img align="center" alt="Logo do TailwindCSS" height="30" width="40" title="TailwindCSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
     </a>
+    
+    <a href="#">
+      <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    </a>
+    
     <a href="#">
       <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
@@ -70,10 +73,11 @@
     <a href="#">
       <img align="center" alt="Logo do VsCode" height="30" width="40" title="VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     </a>
-    <!-- <a href="#">
+    <a href="#">
       <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
-    <a href="#">
+    
+    <!-- <a href="#">
       <img align="center" alt="Logo do C#" height="30" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     </a>
     <a href="#">
