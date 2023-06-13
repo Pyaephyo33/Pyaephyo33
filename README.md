@@ -1,21 +1,10 @@
 <meta name="description" content="GitHub profile in green color">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
-</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DA37A&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Pyae+Phyo+From+Burma+(Myanmar);I'm+Full+Stack+Developer+;Welcome+to+my+github+%F0%9F%A4%97)](https://git.io/typing-svg)
 
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pyaephyo33&show_icons=true&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117&count_private=true"/>
-  </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyaephyo33&langs_count=5&layout=compact&theme=vue-dark&bg_color=0d1117&border_radius=15&border_color=0d1117"/>
-  </a>
-</div> 
+
    
 <br>
 <br>
