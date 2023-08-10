@@ -35,6 +35,9 @@
     <a href="#">
       <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     </a>
+     <a href="#">
+      <img align="center" alt="Logo do Laragon" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laragon/laragon-original.svg">
+    </a>
     <a href="#">
       <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
     </a>
