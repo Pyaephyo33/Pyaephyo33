@@ -2,7 +2,7 @@
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DA37A&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Pyae+Phyo+From+Burma+(Myanmar);I'm+Full+Stack+Developer+;Welcome+to+my+github+%F0%9F%A4%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DA37A&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Pyae+Phyo+From+Burma+(Myanmar);I'm+Web+Developer+;Welcome+to+my+github+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 
    
