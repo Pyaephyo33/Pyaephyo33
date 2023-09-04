@@ -32,9 +32,9 @@
     <a href="#">
       <img align="center" alt="Logo do Laravel" height="30" width="40" title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
     </a>
-     <a href="#">
-      <img align="center" alt="Logo do Vue" height="30" width="40" title="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg">
-    </a>
+     <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40" height="30" viewBox="0 0 48 48">
+<polygon fill="#81c784" points="23.987,17 18.734,8 2.974,8 23.987,44 45,8 29.24,8"></polygon><polygon fill="#455a64" points="29.24,8 23.987,17 18.734,8 11.146,8 23.987,30 36.828,8"></polygon>
+</svg>
     <a href="#">
       <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     </a>
