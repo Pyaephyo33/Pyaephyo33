@@ -31,12 +31,11 @@
     <a href="#">
       <img align="center" alt="Logo do Laravel" height="30" width="40" title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
     </a>
-     https://icons8.com/icon/eETV3RNHVrWA/vue.js-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications
     <a href="#">
       <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     </a>
      <a href="#">
-        <i class="fa-brands fa-vuejs"></i>
+        <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M356.9 64.3H280l-56 88.6-48-88.6H0L224 448 448 64.3h-91.1zm-301.2 32h53.8L224 294.5 338.4 96.3h53.8L224 384.5 55.7 96.3z"/></svg>
      </a>
      <a href="#">
       <img align="center" alt="Logo do WordPress" height="30" width="40" title="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
