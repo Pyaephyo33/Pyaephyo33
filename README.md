@@ -1,5 +1,5 @@
 <meta name="description" content="GitHub profile in green color">
-<meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, TypeScript, React, Nodejs, HTML5, CSS3, Bootstrap, Python, C#, C++, C, Java, PHP, PostgreSQL, MySQL, MongoDB"/>
+<meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, Pyaephyo33, Raven Pyae"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DA37A&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Pyae+Phyo+From+Burma+(Myanmar);I'm+Web+Developer+;Welcome+to+my+github+%F0%9F%A4%97)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
 <br>
 <h1 align="center">Hi 👋, I'm Pyae Phyo</h1>
 <h3 align="center">Web Developer from Yangon, Myanmar</h3>
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coding" style="border-radius: 5px;" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyaephyo33&label=Profile%20views&color=0e75b6&style=flat" alt="pyaephyo33" /> </p>
 
