@@ -9,7 +9,7 @@
 <br>
 <h1 align="center">Hi 👋, I'm Pyae Phyo</h1>
 <h3 align="center">Web Developer from Yangon, Myanmar</h3>
-<img align="right" alt="coding" style="border-radius: 15px;" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyaephyo33&label=Profile%20views&color=0e75b6&style=flat" alt="pyaephyo33" /> </p>
 
