@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyaephyo33&label=Profile%20views&color=0e75b6&style=flat" alt="pyaephyo33" /> </p>
 
-- 🌱 I’m currently learning **React and Node JS**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Vue and Laravel**
 
